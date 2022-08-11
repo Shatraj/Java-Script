@@ -1,0 +1,2 @@
+let nam;
+alert(nam);
