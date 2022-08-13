@@ -1,2 +1,0 @@
-let nam;
-alert(nam);
